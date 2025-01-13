@@ -1,0 +1,5 @@
+Première ligne de test
+Deuxième ligne avec des caractères spéciaux : é è à !
+Une très longue ligne qui pourrait être plus longue que BUFFER_SIZE pour tester le comportement de la fonction dans ce cas particulier...
+
+Dernière ligne du fichier (sans retour à la ligne)
